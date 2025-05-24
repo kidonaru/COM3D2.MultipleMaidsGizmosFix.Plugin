@@ -18,6 +18,8 @@ v1.0.0.0
 複数メイドで視野角を変更するとギズモの表示位置がずれる問題を修正するプラグインです。
 
 
+https://github.com/user-attachments/assets/aa5912b1-ed9e-48c6-b4f4-8ae838d53c85
+
 
 ## インストール方法
 
